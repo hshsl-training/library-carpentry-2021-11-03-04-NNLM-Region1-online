@@ -1,0 +1,11 @@
+- Logistics
+  - Change from in person to virtual (use of Zoom and Etherpad)
+  - Central org helped with instructor recruitment
+  - Advertising through NNLM channels
+- Changes in second LC event
+  - Shorter duration
+  - Tidy Data and R instead of Git and OpenRefine
+- Challenges
+  - Keeping everyone together in virtual environment
+  - Harmonizing experience with multiple instructors
+
