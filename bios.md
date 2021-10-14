@@ -9,3 +9,5 @@ Brian Zelip is the Emerging Technologies Librarian at the University of Maryland
 ## JP
 
 ## Kiri
+
+Kiri Burcat contributed to this project as the Data and Evaluation Coordinator for the Network of the National Library of Medicine, Region 1. She now works at Howard Community College in the Center for Service Learning. 
