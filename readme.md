@@ -13,11 +13,11 @@ Material for our MACMLA 2021 lightning talk, "Building capacity to provide in-de
 
 - [ ] slides
 - [ ] short bios for each of us for introduction (see bios.md)
-  - [ ] Amy
+  - [x] Amy
   - [x] Brian
   - [ ] JP
-  - [ ] Kiri
+  - [x] Kiri
 
-## RML cooperative agreement \#
+## NNLM Acknowledgement
 
-UG4 LM013724
+This project has been funded in whole or in part with Federal funds from the National Library of Medicine, National Institutes of Health, Department of Health and Human Services, under Cooperative Agreement Number UG4LM013724 with the University of Maryland, Baltimore.
